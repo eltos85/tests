@@ -1,0 +1,597 @@
+book of clovers reloaded:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/15273/
+  timeout: 10
+  game_name: book of clovers reloaded
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: False
+  skip: False
+
+posh cats:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/15227/
+  timeout: 10
+  game_name: posh cats
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: False
+  skip: False
+
+tombstone r.i.p:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'id', 'nolimit-game-target'}
+  game_link: https://bet-boom.com/ka/game/14345/
+  timeout: 10
+  game_name: tombstone r.i.p
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+  skip: False
+
+queen of ice expanded edition:
+  test_name: GE base page games,
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/15265/
+  timeout: 10
+  game_name: queen of ice expanded edition
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: False
+  skip_from_country: no countries for skip
+  skip: False
+
+mount magmas:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'id', 'pushgame'}
+  game_link: https://bet-boom.com/ka/game/15220/
+  timeout: 10
+  game_name: mount magmas
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+  skip_from_country: no countries for skip
+  skip: False
+
+prince of persia the gems of persepolis:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/6876/
+  timeout: 10
+  game_name: prince of persia:\ the gems of persepolis
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: False
+  skip_from_country: no countries for skip
+  skip: False
+
+lucky cloverland:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'id', 'demo_iframe'}
+  timeout_iframe: 50
+  timeout_iframe_2: 50
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/15331/
+  timeout: 10
+  game_name: lucky cloverland
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: False
+
+sweet sugar:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/7506/
+  timeout: 10
+  game_name: sweet sugar
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: False
+
+african king hold 'n' link:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/14388/
+  timeout: 10
+  game_name: african king hold 'n' link
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: False
+
+wild beach party:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/15317/
+  timeout: 10
+  game_name: wild beach party
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+fat mama's wheel:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/15347/
+  timeout: 10
+  game_name: fat mama's wheel
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+rainbow gold:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/15358/
+  timeout: 10
+  game_name: rainbow gold
+  timeout_game: 100
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+spaceman:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 60
+  game_locator: {'id', 'game-container'}
+  game_link: https://bet-boom.com/ka/game/15525/
+  timeout: 10
+  game_name: spaceman
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+tic tac take:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/15526/
+  timeout: 10
+  game_name: tic tac take
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+might of ra:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/15254/
+  timeout: 10
+  game_name: might of ra
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+big bass bonanza:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/6816/
+  timeout: 10
+  game_name: big bass bonanza
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+the dog house megaways:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/6030/
+  timeout: 10
+  game_name: the dog house megaways
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+extra juicy megaways:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/15275/
+  timeout: 10
+  game_name: extra juicy megawaysn
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+book of cupigs:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/15217/
+  timeout: 10
+  game_name: book of cupigs
+  timeout_game: 150
+  sleep: 5
+  iframe_1: True
+  iframe_2: True
+
+wolf gold:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/5023/
+  timeout: 10
+  game_name: wolf gold
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+gold party:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/14389/
+  timeout: 10
+  game_name: gold party
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+gold mania:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/15268/
+  timeout: 10
+  game_name: gold mania
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: False
+
+aztec magic deluxe:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'id', 'game'}
+  game_link: https://bet-boom.com/ka/game/5060/
+  timeout: 10
+  game_name: aztec magic deluxe
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+joker chase:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/14384/
+  timeout: 10
+  game_name: joker chase
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: False
+
+medusa hunt:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/15258/
+  timeout: 10
+  game_name: medusa hunt
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+dwarfs fortune:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/15231/
+  timeout: 10
+  game_name: dwarfs fortune
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: False
+  
+take the kingdom:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20,
+  game_locator: {'xpath', "//*[text()='Take The Kingdom']"}
+  game_link: https://bet-boom.com/ka/game/15279/
+  timeout: 10
+  game_name: take the kingdom
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: False
+
+gold tiger ascent:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'xpath', "//*[text()='Gold Tiger Ascent']"}
+  game_link: https://bet-boom.com/ka/game/15280/
+  timeout: 10
+  game_name: gold tiger ascent
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: False
+
+aztec magic bonanza:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/15248/
+  timeout: 10
+  game_name: aztec magic bonanza
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+legion x:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'id', 'nolimit-game-target'}
+  game_link: https://bet-boom.com/ka/game/9401/
+  timeout: 10
+  game_name: legion x
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+siren symphony:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/15241/
+  timeout: 10
+  game_name: siren symphony
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: False
+
+book of demi gods ii:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/5571/
+  timeout: 10
+  game_name: book of demi gods ii
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: False
+
+2021 hit slot:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/7781/
+  timeout: 10
+  game_name: 2021 hit slot
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: False
+
+extra chilli:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/4240/
+  timeout: 10
+  game_name: extra chilli
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: False
+
+starburst:
+  provider: NetEnt
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'id', 'egamings_container'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/7544/
+  timeout: 10
+  game_name: starburst
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+divine fortune megaways:
+  provider: NetEnt
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'id', 'egamings_container'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/7835/
+  timeout: 30
+  game_name: divine fortune megaways
+  timeout_game: 150
+  sleep: 4
+  iframe_1: True
+  iframe_2: True
+
+gonzo's quest:
+  provider: NetEnt
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'id', 'egamings_container'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/7834/
+  timeout: 10
+  game_name: gonzo's quest
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+xtreme hot:
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'tag name', 'iframe'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/9428/
+  timeout: 10
+  game_name: xtreme hot
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True
+
+dead or alive 2:
+  provider: NetEnt
+  test_name: GE base page games
+  iframe_game: {'xpath', "//*[@title='gameIframe']"}
+  iframe_game_2: {'id', 'egamings_container'}
+  timeout_iframe: 20
+  timeout_iframe_2: 20
+  game_locator: {'tag name', 'canvas'}
+  game_link: https://bet-boom.com/ka/game/7543/
+  timeout: 10
+  game_name: dead or alive 2
+  timeout_game: 150
+  sleep: 2
+  iframe_1: True
+  iframe_2: True

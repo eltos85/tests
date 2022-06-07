@@ -1,0 +1,6 @@
+class Locators:
+    URL = 'https://api.telegram.org/botXXXXXXXXXXXXXXXXXXXXXXXXX/'
+    URL_PROD = 'https://api.telegram.org/botXXXXXXXXXX:XXXXXXXXXXXXXXX/'
+    CHAT_ID_PAY = '-XXXXXXXXX'
+    CHAT_ID_PROD = '-XXXXXXXXXXXXXXXX'
+    TOKEN = 'XXXXXXXXXXXXXXX:XXXXXXXXXXXXXXX'
