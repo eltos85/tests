@@ -1,0 +1,12 @@
+allure-pytest
+Pillow
+pytest
+requests
+pytest-rerunfailures
+selenium
+webdriver-manager
+Faker
+pyTelegramBotAPI
+websocket-client
+Jinja2
+PyYAML
