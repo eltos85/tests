@@ -13,7 +13,7 @@ def browser():
     chrm_caps = webdriver.DesiredCapabilities.CHROME.copy()
     chrm_caps['goog:loggingPrefs'] = {'performance': 'ALL'}
     # driver = webdriver.Chrome(options=options, desired_capabilities=chrm_caps)
-    driver = webdriver.Remote("http://localhost:4444/wd/hub", options=options,
+    driver = webdriver.Remote("http://selenium:4444/wd/hub", options=options,
                               desired_capabilities=chrm_caps)
     driver.implicitly_wait(10)
     driver.set_window_size(1600, 1000)
