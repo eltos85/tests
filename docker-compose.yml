@@ -15,7 +15,7 @@ services:
           echo "sleep for 60sec"
           sleep 60
           pwd
-          ${COMMAND_FROM_MOBILE_TEST}
+          ${COMMAND_FROM_TEST}
     networks:
       - mynet
     depends_on:
