@@ -1,0 +1,41 @@
+version: "3.6"
+
+networks:
+  mynet:
+    name: my_bridge
+
+services:
+  test_runner:
+    image: duzer6/my_pytest
+    container_name: my_pytest
+    command: 
+      - /bin/sh
+      - -c
+      - |
+          echo "sleep for 60sec"
+          sleep 60
+          pwd
+          python3 -m pytest -v -s tests/prod/open_games_testing/test_atmosfera_games.py
+    networks:
+      - mynet
+    depends_on:
+      - selenium
+    volumes:
+      - .:/selenium
+
+
+  selenium:
+    image: selenium/standalone-chrome:100.0
+    shm_size: 2gb
+    container_name: selenium
+    logging:
+      driver: none
+    networks:
+      - mynet
+    environment:
+      - SE_NODE_OVERRIDE_MAX_SESSIONS=true
+      - SE_NODE_MAX_SESSIONS=5
+      - JAVA_OPTS=-XX:ActiveProcessorCount=5
+    ports:
+      - "4444:4444"
+
